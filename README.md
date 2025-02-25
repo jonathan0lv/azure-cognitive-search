@@ -1,6 +1,6 @@
 # Projeto OCR - Extração de Texto de Imagens 
 
-Este projeto utiliza **OCR (Reconhecimento Óptico de Caracteres)** para extrair textos de imagens. Testamos diferentes tipos de imagens para avaliar a precisão da extração.
+Este projeto utiliza **OCR (Reconhecimento Óptico de Caracteres)** para extrair textos de imagens. Testamos diferentes tipos de imagens com o GPT-4 para avaliar a precisão da extração.
 
 ## 📂 Estrutura do Projeto
 - `inputs/` → Contém as imagens originais usadas no OCR.
